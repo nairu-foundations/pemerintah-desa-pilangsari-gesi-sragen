@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pilangsari-sragen.desa.id/sitemap.xml

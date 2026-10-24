@@ -1,0 +1,16 @@
+{
+  "short_name": "Desa Pilangsari",
+  "name": "Pemerintah Desa Pilangsari, Kec. Gesi, Kab. Sragen",
+  "icons": [
+    {
+      "src": "/logo-desa.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#FFE600",
+  "display": "standalone",
+  "orientation": "portrait"
+}

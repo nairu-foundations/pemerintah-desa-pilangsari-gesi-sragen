@@ -1,0 +1,6 @@
+{
+  "name": "Pemerintah Desa Pilangsari - Gesi Sragen",
+  "description": "Website resmi Pemerintah Desa Pilangsari, Kecamatan Gesi, Kabupaten Sragen, Jawa Tengah. Portal pelayanan surat online, aspirasi warga, profil desa, dan transparansi publik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

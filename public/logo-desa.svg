@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" width="160" height="200" fill="none">
+  <!-- Outer Shield Border -->
+  <path d="M80 8 L146 36 L132 144 L80 192 L28 144 L14 36 Z" fill="#FFFFFF" stroke="#E53935" stroke-width="6" stroke-linejoin="round" />
+  <path d="M80 18 L136 42 L124 136 L80 178 L36 136 L24 42 Z" fill="#FAF5E4" stroke="#FFE600" stroke-width="4" stroke-linejoin="round" />
+  
+  <!-- Sky / Top Half -->
+  <path d="M80 24 L130 46 L120 110 L40 110 L30 46 Z" fill="#2D8FD5" opacity="0.9" />
+
+  <!-- Mountain -->
+  <polygon points="40,105 80,50 120,105" fill="#1C658C" />
+  <polygon points="65,105 80,68 95,105" fill="#398AB9" />
+
+  <!-- River waves (Bengawan Solo) -->
+  <path d="M30 110 Q55 102 80 110 T130 110 L124 136 L80 178 L36 136 Z" fill="#2D8FD5" />
+  <path d="M42 120 Q60 115 80 120 T118 120" stroke="#FFFFFF" stroke-width="2.5" fill="none" opacity="0.8" />
+  <path d="M48 132 Q64 127 80 132 T112 132" stroke="#FFFFFF" stroke-width="2.5" fill="none" opacity="0.8" />
+
+  <!-- Golden Star -->
+  <polygon points="80,26 83,34 92,34 85,39 88,48 80,43 72,48 75,39 68,34 77,34" fill="#FFE600" stroke="#B8860B" stroke-width="0.8" />
+
+  <!-- Banyan Tree (Pohon Beringin) -->
+  <circle cx="80" cy="74" r="18" fill="#2E9E3E" stroke="#1D6C29" stroke-width="1.5" />
+  <circle cx="70" cy="78" r="12" fill="#2E9E3E" />
+  <circle cx="90" cy="78" r="12" fill="#2E9E3E" />
+  <rect x="77" y="82" width="6" height="18" fill="#8B4513" rx="1" />
+
+  <!-- Keris / Central Symbol -->
+  <path d="M80 62 Q82 72 80 82 Q78 92 80 102 L80 118" stroke="#FFE600" stroke-width="3" stroke-linecap="round" fill="none" />
+  <circle cx="80" cy="119" r="3.5" fill="#E53935" />
+
+  <!-- Rice & Cotton Wreath (Left: Padi, Right: Kapas) -->
+  <path d="M42 120 C32 90 38 60 56 46" stroke="#FFE600" stroke-width="3.5" stroke-linecap="round" fill="none" />
+  <path d="M118 120 C128 90 122 60 104 46" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" fill="none" />
+  
+  <!-- Cotton bulbs -->
+  <circle cx="118" cy="85" r="4" fill="#FFFFFF" stroke="#2E9E3E" stroke-width="1" />
+  <circle cx="114" cy="70" r="4" fill="#FFFFFF" stroke="#2E9E3E" stroke-width="1" />
+  <circle cx="108" cy="56" r="4" fill="#FFFFFF" stroke="#2E9E3E" stroke-width="1" />
+
+  <!-- Bottom Ribbon with Sukowati Sragen -->
+  <path d="M26 150 L38 144 L80 156 L122 144 L134 150 L128 166 L80 178 L32 166 Z" fill="#E53935" stroke="#FFE600" stroke-width="1.5" />
+  <text x="80" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-weight="900" font-size="9" fill="#FFFFFF" letter-spacing="0.5">SRAGEN</text>
+</svg>
